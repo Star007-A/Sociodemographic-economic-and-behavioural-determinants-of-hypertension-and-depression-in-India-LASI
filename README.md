@@ -6,7 +6,7 @@ Sciences in Mumbai, India, Harvard School of Public Health, and University of So
 (USC). The LASI Wave-1 target population included all Indian adults and elderly men and women aged 
 45 and above, as well as their spouses living in the same household, regardless of their age. It covered 
 a panel survey of 72,250 people in Wave 1. The study involved 65,562 participants, with 18,849 and 
-16,282 of them estimating the diagnosis of hypertension and depression respectively.
+16,282 of them estimating the diagnosis of hypertension and depression respectively. The analysis was carried out using statistical software Stata 16.
 
 ▪ In this study, I examined the prevalence of hypertension and depression by socioeconomic and health 
 behaviour factors for India and for two groups of states where the prevalence is lower and higher 
